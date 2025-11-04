@@ -61,6 +61,7 @@ A simple **e-commerce web app** where users can browse products, view product de
 /src
  ├── components/
  ├── pages/
+ ├── Tests/
  ├── context/
  ├── store/
  ├── api/
@@ -71,7 +72,7 @@ A simple **e-commerce web app** where users can browse products, view product de
 ## ⚡ Setup
 
 # Clone
-git clone https://github.com/jaiprakash/shophub.git
+git clone https://github.com/JAIPRAKASH-07/e-commerce_app.git
 cd shophub
 
 # Install dependencies
